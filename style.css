@@ -21,7 +21,7 @@ section{
 .hire-button{
     text-decoration: none;
     border-radius: 5px;
-    background-image:linear-gradient(orange, tomato);
+    background-image:linear-gradient(rgba(177, 116, 3, 0.781), rgb(255, 112, 87));
     padding:10px 40px;
     color:white;
     font-weight: 700;
